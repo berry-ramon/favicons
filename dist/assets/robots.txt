@@ -1,6 +1,6 @@
 # =========================================================
 # FAVICON STUDIO - robots.txt
-# https://favicons.brandonkimathi.top
+# https://favicon.brandonkimathi.top
 # Personal tool - kept out of search engines
 # =========================================================
 
@@ -37,4 +37,4 @@ User-agent: Discordbot
 Allow: /
 
 # Sitemap listed so crawlers that ignore Disallow still know the URL set
-Sitemap: https://favicons.brandonkimathi.top/sitemap.xml
+Sitemap: https://favicon.brandonkimathi.top/sitemap.xml
