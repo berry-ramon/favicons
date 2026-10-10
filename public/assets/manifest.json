@@ -1,0 +1,80 @@
+{
+  "name": "Favicon Studio",
+  "short_name": "Favicon Studio",
+  "description": "Upload one image and download 47 favicon and app-icon files at once for browsers, iOS, Android, Windows tiles, and PWAs. Runs entirely in your browser.",
+  "start_url": "/",
+  "scope": "/",
+  "id": "/",
+  "display": "standalone",
+  "display_override": ["standalone", "minimal-ui", "browser"],
+  "orientation": "any",
+  "background_color": "#FAF7F2",
+  "theme_color": "#A91E8A",
+  "lang": "en",
+  "dir": "ltr",
+  "prefer_related_applications": false,
+  "categories": ["developer", "design", "utilities"],
+  "icons": [
+    {
+      "src": "/assets/icon-144x144.png",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/maskable-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/assets/maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "/assets/screenshot-mobile.png",
+      "sizes": "364x799",
+      "type": "image/png",
+      "form_factor": "narrow",
+      "label": "Favicon Studio on mobile"
+    },
+    {
+      "src": "/assets/screenshot-desktop.png",
+      "sizes": "1920x961",
+      "type": "image/png",
+      "form_factor": "wide",
+      "label": "Favicon Studio on desktop"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Generate favicons",
+      "short_name": "Generate",
+      "description": "Upload an image and generate all favicon sizes",
+      "url": "/",
+      "icons": [
+        {
+          "src": "/assets/icon-192x192.png",
+          "sizes": "192x192",
+          "type": "image/png"
+        }
+      ]
+    }
+  ]
+}

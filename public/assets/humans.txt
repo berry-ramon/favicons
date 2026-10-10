@@ -1,0 +1,19 @@
+/* TEAM */
+Creator: Brandon Kimathi
+Contact: hello@brandonkimathi.top
+Location: Nairobi, Kenya
+Site: https://brandonkimathi.top
+
+/* SITE */
+Name: Favicon Studio
+Tagline: Every favicon in one upload
+Standards: HTML5, CSS3, ES2020+
+Components: React 18, TypeScript, Vite, Tailwind CSS
+Libraries: JSZip, png-to-ico
+Fonts: Poppins, Inter
+Language: English
+Doctype: HTML5
+
+/* PRINCIPLES */
+No uploads. No tracking. No API keys.
+All image processing happens in your browser.
